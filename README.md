@@ -21,13 +21,16 @@ this should open a window to play
 | ------------- |:-------------:|
 | `ESC`         | exit game     |
 | `SPACE BAR`   | shoot         |
-| A             | move left     |
-| D             | move right    |
-| W             | move forward  |
-| S             | move backward |
-| RIGHT ARROW   | turn right    |
-| LEFT ARROW    | turn left     |
-
+| `A`           | move left     |
+| `D`           | move right    |
+| `W`           | move forward  |
+| `S`           | move backward |
+| `→`           | turn right    |
+| `←`           | turn left     |
+| `M`           | hide/display map|
+| `O`           | open/close door|
+| `P`           | open/close secret door|
+| `option`      | change weapon |
 
 
 
