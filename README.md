@@ -55,10 +55,10 @@ You can now create your own map by following this norm:
 | `D`            | door          |
 | `P`            | secret door   |
 
-You can have a look at the [subject] (https://github.com/phperrot/cub3d/blob/master/fr.subject.pdf) for further details on how paths work
-Be careful ! All your paths must be valid and your map must be closed (but not necessarily a square 😉)
+You can have a look at the [subject] (https://github.com/phperrot/cub3d/blob/master/fr.subject.pdf) for further details on how `.cub` files work.
+⚠️ Be careful ! All your paths must be valid and your map must be closed (but not necessarily a square 😉)
 
-## WANNA CODE?
+## WANNA CODE?  👨‍💻
 
 Some useful links can be found in the [documentation file] (https://github.com/phperrot/cub3d/blob/master/DOCUMENTATION.md)
 
