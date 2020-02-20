@@ -20,9 +20,10 @@ gcc -I /usr/X11/include -g -L /usr/X11/lib -lX11 -lmlx -lXext .c
 gcc .c libft/.c get_next_line/*.c -L minilibx_opengl -l mlx -framework OpenGL -framework AppKit
 ```
 
-#DOCUMENTATION https://github.com/keuhdall/images_example/blob/master/example.c
+### DOCUMENTATION
+Example of basic MLX function [here](https://github.com/keuhdall/images_example/blob/master/example.c)
 
-=====RAYCASTING==
+# RAYCASTING
 
 #tutorial https://lodev.org/cgtutor/raycasting.html
 
