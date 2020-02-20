@@ -1,0 +1,21 @@
+R 8000 4000
+NO ./textures/NO.xpm
+SO ./textures/SO.xpm
+WE ./textures/WE.xpm
+EA ./textures/EA.xpm
+S ./items/treasure.xpm
+F 182, 192, 182
+C 192, 182, 182
+
+1
+1 1
+1 0 1
+1 0 0 1
+1 0 0 0 1
+1 0 0 0 1
+1 N 0 0 1
+1 0 0 0 0 1
+1 0 0 0 0 1 1 1 1 1 
+1 0 0 0 0 0 0 0 0 1
+1 0 0 0 2 0 0 1 1 
+1 1 1 1 1 1 1 1 
