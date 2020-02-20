@@ -19,8 +19,8 @@ this should open a window to play
 
 | KEY           | Action        |
 | ------------- |:-------------:|
-| ESC           | exit game     |
-| SPACE BAR     | shoot         |
+| `ESC`         | exit game     |
+| `SPACE BAR`   | shoot         |
 | A             | move left     |
 | D             | move right    |
 | W             | move forward  |
