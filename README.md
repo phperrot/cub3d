@@ -31,8 +31,11 @@ this should open a window to play
 | `O`           | open/close door|
 | `P`           | open/close secret door|
 | `option`      | change weapon |
+| `F10`         | sound on/off |
 
+![Image of Cub3D](https://github.com/phperrot/cub3d/blob/master/items/screen.png)
 
+### Rules
 
-
+Collect treasures to unlock new levels !
 
