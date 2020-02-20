@@ -6,14 +6,14 @@ This project aims at reproducing a basic FPS game by using the raycasting method
 ## WANNA PLAY? 💥
 ### Installation
 
-first, copy paste this on your terminal:
+first, copy paste the following code on your terminal:
 
 ```shell
 
 cd ~ && cd Downloads && git clone https://github.com/phperrot/cub3d.git cub3d && cd cub3d && chmod 777 Cub3D_bonus && chmod 777 Cub3D && ./Cub3D_bonus maps/master_map.cub
 
 ```
-this should open a window to play:
+this should open a new window:
 ![Image of Cub3D](https://github.com/phperrot/cub3d/blob/master/items/screen.png)
 
 ### Commands
