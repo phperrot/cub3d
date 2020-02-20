@@ -1,6 +1,6 @@
 cub3d project @42born2code
 
-# MLX
+# MLX 🎨
 
 ## MLX CONFIG for non-42 computer: 
 
@@ -20,11 +20,14 @@ gcc -I /usr/X11/include -g -L /usr/X11/lib -lX11 -lmlx -lXext .c
 gcc .c libft/.c get_next_line/*.c -L minilibx_opengl -l mlx -framework OpenGL -framework AppKit
 ```
 
+🌟 Have a look at the `Makefile` to see how mlx was used
+
 ### DOCUMENTATION
 Example of basic MLX function [here](https://github.com/keuhdall/images_example/blob/master/example.c)
 
-# RAYCASTING
+# RAYCASTING 💫
 
-#tutorial https://lodev.org/cgtutor/raycasting.html
+## tutorial 
+▶️BEST TUTORIAL FOR RAYCASTING: [lodev.org](https://lodev.org/cgtutor/raycasting.html)
 
-#handle save flag https://engineering.purdue.edu/ece264/17au/hw/HW15
+▶️UNDERSTANGING BMP FORMAT: [engineering.purdue.edu](https://engineering.purdue.edu/ece264/17au/hw/HW15)
