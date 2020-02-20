@@ -1,7 +1,7 @@
 # CUB3D by phperrot 🕺
 ## PRESENTATION
 
-This projects aims at reproducing a basic FPS game by using the raycasting method.
+This project aims at reproducing a basic FPS game by using the raycasting method.
 
 ## WANNA PLAY? 💥
 ### Installation
